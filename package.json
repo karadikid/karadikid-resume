@@ -22,12 +22,12 @@
   ],
   "author": "Karadi, Gouthum",
   "license": "ISC",
-  "bugs": {
+"bin": {
+    "your-command-here": "./index.js"
+  },  
+"bugs": {
     "url": "https://github.com/karadikid/karadikid-resume/issues"
   },
   "homepage": "https://github.com/karadikid/karadikid-resume#readme"
 }
 
-"bin": {
-    "your-command-here": "./index.js"
-  },
