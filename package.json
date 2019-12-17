@@ -1,6 +1,6 @@
 {
   "name": "karadikid-resume",
-  "version": "2019.12.17",
+  "version": "2019.13.0",
   "description": "Gouthum Karadi Resume",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,11 @@
   ],
   "author": "Karadi, Gouthum",
   "license": "ISC",
-"bin": {
+  "bin": {
     "your-command-here": "./index.js"
-  },  
-"bugs": {
+  },
+  "bugs": {
     "url": "https://github.com/karadikid/karadikid-resume/issues"
   },
   "homepage": "https://github.com/karadikid/karadikid-resume#readme"
 }
-
